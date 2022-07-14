@@ -1,0 +1,30 @@
+# 1. Sopot -> Krakow (600km, 7h, Sobota)
+  * Sopot (Sobota 6:00)
+  * Krakow (Sobota 13:00)
+  * zwiedzanie Krakowa (Sobota)
+  * nocleg w Krakowie
+# 2. Kraków -> Padwa/Wenecja (1100km, 12h, Niedziela)
+  * Kraków (Niedziela 8:00)
+  * Padwa/Wenecja (Niedziela 20:00)
+  * nocleg w Padwie/Wenecji
+# 3. Wenecja -> Rimini (200km, 3h, Poniedzialek)
+  * Wenecja (Poniedziałek 10:00)
+  * zwiedzanie Wenecji (Poniedziałek)
+  * Rimini (Poniedziałek 20:00)
+  * nocleg w Rimini
+# 4. Rimini -> Urbino -> Perugia (150km, 3h, Wtorek)
+  * Plaza w Rimini (Wtorek 10:00)
+  * Popoludnie w Urbino (Wtorek)
+  * nocleg w Perugii
+# 5. Perugia -> Livorno (250km, 3h, Sroda)
+  * Zwiedzanie Perugi (Sroda rano)
+  * nocleg w Livorno
+# 6. Livorno -> Florencja -> Livorno (czwartek)
+# 7. Livorno -> Siena -> Livorno (piatek)
+# 8. Livorno -> Piza -> Livorno (sobota)
+# 9. Livorno -> Mediolan (300km, 4h, niedziela)
+# 10. Mediolan (poniedzialek)
+# 11. Mediolan -> Como -> Mediolan (wtorek)
+# 12. Mediolan -> Torbole (Garda, Sroda)
+# 13. Torbole -> Niemcy/Austria (Czwartek)
+# 14. Niemcy/Austria -> Sopot (Piatek wieczor w domu)
